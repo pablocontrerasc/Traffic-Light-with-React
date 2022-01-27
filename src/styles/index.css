@@ -10,3 +10,51 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+
+
+#contenedor{
+    width: 120px;
+    height: auto;
+    background-color: black;
+    margin: auto;
+    padding: 10px;
+}
+
+.trafficTop{
+    width: 10px;
+    height: 100px;
+    background-color: black;
+    margin: auto;
+}
+
+.red {
+    background-color: red;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    margin: auto;
+}
+
+.green{
+    background-color: green;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;  
+    margin: auto;
+   
+}
+
+.yellow{
+    background-color: yellow;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    margin: auto;
+    
+}
+
+.brillo{
+
+  box-shadow: 0px 0px 40px 20px rgb(242, 255, 105);
+}
